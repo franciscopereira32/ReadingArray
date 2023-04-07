@@ -1,0 +1,15 @@
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\bin\Debug\net6.0\readingArray.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\bin\Debug\net6.0\readingArray.deps.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\bin\Debug\net6.0\readingArray.runtimeconfig.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\bin\Debug\net6.0\readingArray.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\bin\Debug\net6.0\readingArray.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.csproj.AssemblyReference.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.AssemblyInfoInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.AssemblyInfo.cs
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.csproj.CoreCompileInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\refint\readingArray.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\readingArray.genruntimeconfig.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\readingArray\obj\Debug\net6.0\ref\readingArray.dll
